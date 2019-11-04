@@ -1,0 +1,1 @@
+﻿.htacces để tranh bị phá hay nhìn thấy đường dẫn trong mục mvc

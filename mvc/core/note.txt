@@ -1,0 +1,3 @@
+﻿Chứa file thư viện bên ngoài hỗ trợ
+App sử lý url
+Kết nối database
